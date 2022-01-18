@@ -12,3 +12,6 @@ Added the following to the wireframe:
 - some contact information which we will to our social media and contact number.
 
 Please [click here](./Chai_shop.png) to view the wireframe.
+
+or you can find it below.
+![](./Chai_shop.png)
